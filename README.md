@@ -1,11 +1,11 @@
 # SkillNest Academy Capstone Project
 
-## 📚 Project Overview
+## Project Overview
 This repository contains my capstone project for the **E-learning Website Auditing and Digital Marketing Implementation** course.
 
 SkillNest Academy is a fictional e-learning platform designed to provide high-quality online courses in technology, business, design, and professional development.
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Conduct a complete website audit
 - Redesign the website for better user experience
 - Develop an SEO strategy
@@ -14,15 +14,15 @@ SkillNest Academy is a fictional e-learning platform designed to provide high-qu
 - Plan paid advertising campaigns
 - Define analytics and reporting metrics
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 - Figma
 - GitHub Pages
 
-## 📂 Project Status
-🚧 In Progress
+##  Project Status
+ In Progress
 
-## 👩‍💻 Author
+##  Author
 **Aahana Chauhan**
